@@ -18,8 +18,8 @@ public final class MyLog {
         return INSTANCE;
     }
 
-    /* It is not part of the pattern, but it is part of the logging problem
-    *  If you implemented the pattern correctly, but you did not solve the problem
+    /* It is not part of the pattern, but it is part of the logging problem.
+    *  If you implemented the pattern correctly, but you did not solve the problem,
     *  what is the point?
     */
     public void log(String message, LogLevel level){
